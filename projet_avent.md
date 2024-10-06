@@ -16,7 +16,8 @@ Le design est relativement libre. Dans les 2 parties le projet devra mettre en a
 Une réflexion sur l’interactivité est attendue ainsi que sur l’adaptabilité de votre projet (responsive) 
 
 Des ressources vous seront fournis (photos et vidéos), il sera également de votre ressort de les analyser et de les adapter si nécessaire. 
-
+<br>
+<br>
 ## Période 1 : Figma 
 ---
 ### Objectif : Préparer la partie 2, anticiper les contraintes, visualiser son projet final.
@@ -25,10 +26,10 @@ Des ressources vous seront fournis (photos et vidéos), il sera également de vo
 - Réalisation au minimum des interfaces PC et mobile. 
 - Présentation de l’interactivité (de simple lien à un prototype fonctionnel) 
 
-**DEADLINE : 14/10/2024 23h59** 
-
-
-
+##### DEADLINE
+> 14/10/2024 23h59** 
+<br>
+<br>
 ## Période 2 : Réalisation web 
 ---
 ### Objectif : Réaliser un projet web de calendrier de l’avent, interactif (même si cela est induit par le thème). 
@@ -37,7 +38,8 @@ Des ressources vous seront fournis (photos et vidéos), il sera également de vo
 - Projet responsive 
 - Projet cohérent avec le figma 
 
-**DEADLINE : 24/11/2024 23h59** 
+##### DEADLINE
+> 24/11/2024 23h59** 
 
 ## Évaluation :
 Vous trouverez une grille d'évaluation indicative sur itslearning.
