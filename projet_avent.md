@@ -18,7 +18,6 @@ Une réflexion sur l’interactivité est attendue ainsi que sur l’adaptabilit
 Des ressources vous seront fournis (photos et vidéos), il sera également de votre ressort de les analyser et de les adapter si nécessaire. 
 
 <br>
-<br>
 
 ## Période 1 : Figma 
 ---
@@ -32,7 +31,7 @@ Des ressources vous seront fournis (photos et vidéos), il sera également de vo
 > 14/10/2024 23h59
 
 <br>
-<br>
+
 ## Période 2 : Réalisation web 
 ---
 ### Objectif : Réaliser un projet web de calendrier de l’avent, interactif (même si cela est induit par le thème). 
@@ -43,6 +42,8 @@ Des ressources vous seront fournis (photos et vidéos), il sera également de vo
 
 ##### DEADLINE
 > 24/11/2024 23h59 
+
+<br>
 
 ## Évaluation :
 Vous trouverez une grille d'évaluation indicative sur itslearning.
