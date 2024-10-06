@@ -5,6 +5,6 @@ published: true
 date: 2024
 ---
 
-# Cours FIGMA
+# Cours 3DN
 
-[Partie 4 : Champs, variables et calculs]({{site.baseurl}}/figma4/)<br>
+[PROJET : Calendrier de l'avent numérique]({{site.baseurl}}/projet_avent/)<br>
