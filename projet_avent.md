@@ -18,7 +18,7 @@ Une réflexion sur l’interactivité est attendue ainsi que sur l’adaptabilit
 Des ressources vous seront fournis (photos et vidéos), il sera également de votre ressort de les analyser et de les adapter si nécessaire. 
 
 ## Période 1 : Figma 
-
+---
 ### Objectif : Préparer la partie 2, anticiper les contraintes, visualiser son projet final.
 
 *Du 01/10/2024 au 14/10/2024 (4h en cours + 2h30) :*
@@ -27,8 +27,10 @@ Des ressources vous seront fournis (photos et vidéos), il sera également de vo
 
 **DEADLINE : 14/10/2024 23h59** 
 
-## Période 2 : Réalisation web 
 
+
+## Période 2 : Réalisation web 
+---
 ### Objectif : Réaliser un projet web de calendrier de l’avent, interactif (même si cela est induit par le thème). 
 
 *Du 15/10/2024 au 19/11/2024 (8h en cours + 4h + 4h pendant les vacances) :*
