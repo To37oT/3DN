@@ -48,10 +48,10 @@ Des ressources vous seront fournis (photos et vidéos), il sera également de vo
 ## Évaluation :
 Vous trouverez une grille d'évaluation indicative sur itslearning.
 Pour résumer, à chaque rendu vous serez évalué sur 4 points :
-1) Votre maitrise technique
-2) Votre méthodologie de travail
-3) Votre investissement personnel dans le projet
-4) La transmission de votre projet (le rendu)
+- 1| Votre maitrise technique
+- 2| Votre méthodologie de travail
+- 3| Votre investissement personnel dans le projet
+- 4| La transmission de votre projet (le rendu)
 
 **Pour les points 1 et 3 :**
 Une simple réutilisation des exercices du cours vous amènera à une maitrise fragile
