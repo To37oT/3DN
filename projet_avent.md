@@ -17,6 +17,8 @@ Une réflexion sur l’interactivité est attendue ainsi que sur l’adaptabilit
 
 Des ressources vous seront fournis (photos et vidéos), il sera également de votre ressort de les analyser et de les adapter si nécessaire. 
 
+Vous trouverez [ici](https://www.calendrier-avent-sfda.fr/){:target="_blank"} des propositions antérieures (attention les consignes peuvent varier d'une année sur l'autre)
+
 <br>
 
 ## Période 1 : Figma 
