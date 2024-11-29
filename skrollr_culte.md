@@ -1,19 +1,23 @@
 ---
 layout: default
-title: PROJET Calendrier de l'Avent numérique
-permalink: /projet_avent/
+title: SkrollR - Scène Culte
+permalink: /skrollr_culte/
 published: true
 date: 2024
 ---
 
 # Calendrier de l'Avent numérique
-Réalisation d’un calendrier de l’avent au format figma + HTML/CSS/JS <br>
+Réalisation d'une scène culte du cinéma au format WEB à l'aide de la bibliothèque javaScript SkrollR
 
-Vous allez réaliser un calendrier de l’avent interactif. Cette réalisation s’effectuera en 2 parties, une première partie sur Figma, puis une deuxième partie pour la réalisation du projet en HTML/CSS/JS.
+![image](https://github.com/user-attachments/assets/4c8eba19-8e99-463a-b76b-8f8324407dd9)
 
-Le design est relativement libre. Dans les 2 parties le projet devra mettre en avant vos méthodes de travail et les techniques acquises.  
+Vous allez réaliser une animation WEB qui s'animera au scroll. 
 
-Une réflexion sur l’interactivité est attendue ainsi que sur l’adaptabilité de votre projet (responsive) 
+Cette réalisation s’effectuera en 2 parties, une première partie avec la création d'un mini "storyboard", puis une deuxième partie pour la réalisation du projet en HTML/CSS/JS.
+
+Le design est libre. Dans les 2 parties le projet devra mettre en avant vos méthodes de travail et les techniques acquises.
+
+Votre projet devra être responsive, il est indispensable d'y penser dès la préparation de votre projet. 
 
 Des ressources vous seront fournis (photos et vidéos), il sera également de votre ressort de les analyser et de les adapter si nécessaire. 
 
