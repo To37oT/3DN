@@ -8,4 +8,4 @@ date: 2024
 # Cours 3DN
 
 [PROJET : Calendrier de l'avent numérique]({{site.baseurl}}/projet_avent/)<br>
-[PROJET : SkrollR]({{site.baseurl}}/scene_culte/)<br>
+[PROJET : SkrollR]({{site.baseurl}}/skrollr_culte/)<br>
