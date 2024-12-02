@@ -13,17 +13,17 @@ Réalisation d'une scène culte du cinéma au format WEB à l'aide de la bibliot
 
 Vous allez réaliser une animation WEB qui s'animera au scroll. 
 
-N'hésitez pas à utiliser un défilement parallaxe https://fr.wikipedia.org/wiki/D%C3%A9filement_parallaxe
+N'hésitez pas à utiliser [un défilement parallaxe](https://fr.wikipedia.org/wiki/D%C3%A9filement_parallaxe){:target="_blank"}.
 
 **Exemple de fonctionnement parallaxe au scroll :**
 
-http://www.rleonardi.com/
-https://nasaprospect.com/
-http://alfredservice.com/
-https://www.supershine.design/
+- [www.rleonardi.com](http://www.rleonardi.com/){:target="_blank"}.
+- [nasaprospect.com](https://nasaprospect.com/){:target="_blank"}.
+- [alfredservice.com](http://alfredservice.com/){:target="_blank"}.
+- [www.supershine.design](https://www.supershine.design/){:target="_blank"}.
 
 
-Cette réalisation s’effectuera en 3 parties : 
+## Cette réalisation s’effectuera en 3 parties : 
 
 - Partie 1 (RENDU le 03/12/2024) : Réalisation d'un mini "storyboard"
 - Partie 2 (RENDU le 10/12/2024) : Création des éléments graphiques + placement départ des éléments
