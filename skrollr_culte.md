@@ -13,8 +13,12 @@ Réalisation d'une scène culte du cinéma au format WEB à l'aide de la bibliot
 
 Vous allez réaliser une animation WEB qui s'animera au scroll. 
 
-N'hésitez pas à utiliser [un défilement parallaxe](https://fr.wikipedia.org/wiki/D%C3%A9filement_parallaxe){:target="_blank"}.
+**N'hésitez pas à utiliser :**
 
+- [Un défilement parallaxe](https://fr.wikipedia.org/wiki/D%C3%A9filement_parallaxe){:target="_blank"}.
+- Des animations et des transitions
+- De l'interractivité
+  
 **Exemple de fonctionnement parallaxe au scroll :**
 
 - [www.rleonardi.com](http://www.rleonardi.com/){:target="_blank"}.
