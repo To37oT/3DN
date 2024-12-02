@@ -17,7 +17,7 @@ Vous allez réaliser une animation WEB qui s'animera au scroll.
 
 - [Un défilement parallaxe](https://fr.wikipedia.org/wiki/D%C3%A9filement_parallaxe){:target="_blank"}.
 - Des animations et des transitions
-- De l'interractivité
+- De l'interactivité
   
 **Exemple de fonctionnement parallaxe au scroll :**
 
