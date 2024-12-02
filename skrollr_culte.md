@@ -15,9 +15,9 @@ Vous allez réaliser une animation WEB qui s'animera au scroll.
 
 Cette réalisation s’effectuera en 3 parties : 
 
-- Partie 1 (03/12/2024) : Réalisation d'un mini "storyboard"
-- Partie 2 (10/12/2024) : Création des éléments graphiques + placement départ des éléments
-- Partie 3 (17/12/2024 -> 10/12/2024) : Animation des éléments
+- Partie 1 (RENDU le 03/12/2024) : Réalisation d'un mini "storyboard"
+- Partie 2 (RENDU le 10/12/2024) : Création des éléments graphiques + placement départ des éléments
+- Partie 3 (RENDU le 14/01/2025) : Animation des éléments
 
 Le design est libre. Dans les 3 parties, le projet devra mettre en avant vos méthodes de travail et les techniques acquises.
 
