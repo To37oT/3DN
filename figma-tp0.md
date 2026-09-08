@@ -32,6 +32,8 @@ date: 2026
 - Ajouter un **header** : nom de marque (texte) + navigation (3 liens).
 - ⚠️ Nommer chaque élément **à sa création** (conventions habituelles : `encart-produit`, `btn-ajouter`...).
 
+<img alt="Version PC" src="{{ site.baseurl }}/assets/img/tp0-etape1.png" />
+
 ## Bloc 2 — Réflexion responsive (~30 min)
  
 🔎 **Que devient la page sur mobile ?**
@@ -43,6 +45,8 @@ date: 2026
 - Dupliquer la frame et la redimensionner en **375px** de large.
 - Réarranger : la rangée de cartes **s'empile**, la navigation se simplifie.
 - Observer : grâce à l'auto layout, l'adaptation est presque automatique — c'est tout son intérêt.
+
+<img alt="Version mobile" src="{{ site.baseurl }}/assets/img/tp0-etape2.png" />
 
 ## Bloc 3 — Exporter depuis Figma (~30 min) 🆕
 🔎 **Formats d'export natif dans figma**
