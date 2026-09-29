@@ -31,7 +31,7 @@ date: 2026
 | **Phase 0** — Recherche et croquis | 06/10 | **11/10** |
 | **Phase 1** — Maquettage | 13/10 | **25/10** *(pendant les vacances)* |
 | **Phase 2** — Transmission des contenus | 03/11 | **08/11** |
-| **Phase 3** — Intégration web | 10/11 | **10/01** |
+| **Phase 3** — Intégration web | 10/11 -> 15/12 + 5/01 | **10/01** |
 
 > ⚠️ Le rendu de la **phase 1 tombe pendant les vacances** : anticipez votre travail, la maquette ne se termine pas la veille.
 
@@ -93,10 +93,8 @@ Traduire les wireframes en maquette aboutie dans l'outil de conception.
 
 ✏ **Attendus**
 
-- **Système de grille** cohérent sur toutes les pages
 - **Composants réutilisables** (cartes produit, boutons, navigation…)
-- Les **3 pages** en version desktop
-- Déclinaison **mobile** si le temps le permet — elle prépare le responsive de la phase 3
+- Les **3 pages** en version desktop + mobile
 - **Nommage rigoureux** des calques, frames et pages dès la création
 
 📦 **Livrable (25/10)** : maquette partagée en **lien éditable**, déposée sur itslearning.
@@ -111,10 +109,35 @@ Traduire les wireframes en maquette aboutie dans l'outil de conception.
 Préparer un **kit d'intégration** exploitable par quelqu'un d'autre que vous. C'est la compétence la plus professionnelle du semestre : un designer qui livre des fichiers inutilisables bloque toute la chaîne.
 
 ✏ **Attendus**
-
-- **Export des ressources graphiques** : bon format (JPG / PNG / SVG), bonne résolution, **nommage normé**
+ 
+- **Export des ressources graphiques** au bon format et au bon poids (voir ci-dessous), avec un **nommage normé**
 - **Spécifications** : couleurs (hex), typographies (nom, tailles, graisses), espacements
 - **Organisation des fichiers** : arborescence claire du dossier remis
+  
+🔎 **Formats imposés**
+ 
+| Type de ressource | Format |
+|---|---|
+| Logos, icônes, formes vectorielles | **SVG** |
+| Photos et images bitmap | **WebP** |
+ 
+► JPG et PNG ne sont acceptés que **justifiés** dans le fichier de crédits.
+ 
+► Figma n'exporte pas en WebP : exporter en PNG ou JPG, puis convertir avec [Squoosh](https://squoosh.app) — l'export et l'optimisation sont **deux étapes distinctes**.
+ 
+🔎 **Poids des images**
+ 
+Chaque image doit être exportée **à la dimension à laquelle elle s'affiche** (pas plus grande), puis compressée au maximum sans dégradation visible.
+ 
+Ordres de grandeur attendus :
+ 
+| Usage | Poids visé |
+|---|---|
+| Photo pleine largeur (hero, bandeau) | **< 200 Ko** |
+| Vignette, carte produit | **< 50 Ko** |
+| Icône | **< 5 Ko** *(et normalement en SVG)* |
+ 
+► ⚠️ Une image exportée en 2000px puis réduite en CSS reste une image de 2000px à télécharger. C'est l'erreur la plus courante — et la plus coûteuse pour le visiteur.
 
 📦 **Livrable (08/11)** : dossier d'export organisé et **exploitable par un tiers**.
 
@@ -125,6 +148,7 @@ Préparer un **kit d'intégration** exploitable par quelqu'un d'autre que vous. 
 > - Une intégration réussie à partir d'un kit reçu **valorise** la qualité de la transmission dans l'évaluation.
 > - En cas de kit inexploitable : **retour à son propre kit**, sans pénalité. La qualité du kit reçu n'impacte jamais votre évaluation.
 > - L'appariement se fait **entre volontaires uniquement**, et se décide à ce moment-là.
+> Si le kit reçu pose problème, signalez-le rapidement : les corrections se règlent entre vous, comme dans une équipe réelle. C'est aussi ce que fait un intégrateur face à un kit incomplet — il ne se débrouille pas en silence, il redemande.
 
 ---
 
