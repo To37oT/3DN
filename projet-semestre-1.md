@@ -8,6 +8,8 @@ date: 2026
 
 # Projet du semestre — Salon de thé / café
 
+<img alt="Salon de café" src="{{ site.baseurl }}/assets/img/salon-cafe.png" /><br>
+
 > **Fil rouge du semestre 1.** Vous allez concevoir puis intégrer le site d'un salon de thé ou de café **fictif**, de la première esquisse papier jusqu'au site fonctionnel dans le navigateur.
 >
 > Le projet suit les **quatre étapes d'une chaîne de production réelle** : recherche → maquettage → transmission → intégration. Chaque phase produit un livrable qui alimente la suivante.
