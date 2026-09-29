@@ -8,7 +8,7 @@ date: 2024
 # Cours 3DN
 
 [EXERCICE WEB : TP0]({{site.baseurl}}/figma-tp0/)<br>
-[Projet semestre 1]({{site.baseurl}}/projet-semestre-1/)<br><br>
+[PROJET : Salon de thé/café]({{site.baseurl}}/projet-semestre-1/)<br><br>
 
 [PROJET : Calendrier de l'avent numérique]({{site.baseurl}}/projet_avent/)<br>
 [PROJET : SkrollR]({{site.baseurl}}/skrollr_culte/)<br>
