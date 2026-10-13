@@ -30,17 +30,15 @@ date: 2026
 
 | Phase | En cours le | Rendu au plus tard |
 |---|---|---|
-| **Phase 0** — Recherche et croquis | 06/10 | **11/10** |
-| **Phase 1** — Maquettage | 13/10 | **25/10** *(pendant les vacances)* |
+| **Phase 0** — Recherche et croquis | 13/10 | **18/10** |
+| **Phase 1** — Maquettage | - | **02/11** *(pendant les vacances)* |
 | **Phase 2** — Transmission des contenus | 03/11 | **08/11** |
 | **Phase 3** — Intégration web | 10/11 -> 15/12 + 5/01 | **10/01** |
-
-> ⚠️ Le rendu de la **phase 1 tombe pendant les vacances** : anticipez votre travail, la maquette ne se termine pas la veille.
 
 ---
 
 ## Phase 0 — Recherche et croquis
-**En cours le 06/10 — rendu le 11/10**
+**En cours le 13/10 — rendu le 18/10**
 
 🔎 **Objectif**
 
@@ -78,7 +76,7 @@ Définir l'entreprise et poser la structure du site **avant** toute considérati
 
 ► ⚠️ « Libre » ne veut pas dire « sans conditions ». Chaque banque a sa licence, certaines exigent l'attribution. Vérifier et documenter les droits fait partie du métier.
 
-📦 **Livrable (11/10)** — rendu **entièrement numérique** (scans ou travail réalisé sur ordinateur) :
+📦 **Livrable (18/10)** — rendu **entièrement numérique** (scans ou travail réalisé sur ordinateur) :
 1. Fiche d'identité complétée
 2. Arborescence
 3. Zonings + wireframes des pages
@@ -87,7 +85,7 @@ Définir l'entreprise et poser la structure du site **avant** toute considérati
 ---
 
 ## Phase 1 — Maquettage
-**En cours le 13/10 — rendu le 25/10**
+**Rendu le 02/11**
 
 🔎 **Objectif**
 
@@ -99,7 +97,7 @@ Traduire les wireframes en maquette aboutie dans l'outil de conception.
 - Les **3 pages** en version desktop + mobile
 - **Nommage rigoureux** des calques, frames et pages dès la création
 
-📦 **Livrable (25/10)** : maquette partagée en **lien éditable**, déposée sur itslearning.
+📦 **Livrable (02/11)** : maquette partagée en **lien éditable**, déposée sur itslearning.
 
 ---
 
